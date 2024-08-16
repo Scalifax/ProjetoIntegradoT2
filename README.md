@@ -52,9 +52,9 @@ Se em algum momento o led 2 começar a piscar, quer dizer que houve um problema 
 
 Considerações Imporantes:
 
-1.O modo de emergência ativado pelo botão 6, troca a frequência de operação do rádio de aeronave para a de cárater emergêncial. Essa frequência é definida como aquela que possui o maior alcance, ou seja, a menor frequência de operação do rádio.
-2.Qualquer frequência de qualquer outra área será ignorada enquanto o modo de emergência estiver ativo. Entretanto, quando desativado, a frequência recebida no periodo de atuação do modo emergencial será gravada automaticamente.
-3.Para desetivar esse modo, basta precionar novamente o botão 6.
+1. O modo de emergência ativado pelo botão 6, troca a frequência de operação do rádio de aeronave para a de cárater emergêncial. Essa frequência é definida como aquela que possui o maior alcance, ou seja, a menor frequência de operação do rádio.
+2. Qualquer frequência de qualquer outra área será ignorada enquanto o modo de emergência estiver ativo. Entretanto, quando desativado, a frequência recebida no periodo de atuação do modo emergencial será gravada automaticamente.
+3. Para desetivar esse modo, basta precionar novamente o botão 6.
 
 # Possiveis Erros:
 
